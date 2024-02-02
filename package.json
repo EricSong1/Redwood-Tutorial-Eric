@@ -8,6 +8,7 @@
   },
   "devDependencies": {
     "@redwoodjs/auth-dbauth-setup": "6.6.4",
+    "@redwoodjs/cli-storybook": "6.6.4",
     "@redwoodjs/core": "6.6.4"
   },
   "eslintConfig": {
